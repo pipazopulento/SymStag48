@@ -12,5 +12,5 @@ A 48-key custom keyboard featuring a symmetrical staggered layout inspired by th
 
 ![](img/1.jpg)
 ![](img/3.jpg)
-![](img/layers.jpg)
+![](img/layers.png)
 
