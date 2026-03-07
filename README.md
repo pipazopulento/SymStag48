@@ -9,3 +9,4 @@ A 48-key custom keyboard featuring a symmetrical staggered layout inspired by th
 * **Spacing:** MX Spacing (19.05 x 19.05 mm)
 * **Hardware:** 1x Rotary Encoder
 * **Firmware:** QMK
+(img/1.jpg)
