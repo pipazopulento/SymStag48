@@ -2,8 +2,6 @@
 
 A 48-key custom keyboard featuring a symmetrical staggered layout inspired by the Scotto Katana. Designed for a low profile while retaining traditional MX spacing.
 
-Working on a pcb, available soon!
-
 ## Specs
 
 * **Layout:** 48 keys, Symmetrical Staggered
